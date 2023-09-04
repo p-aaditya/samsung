@@ -1,0 +1,7 @@
+fit a straight line for given datatset
+epsilon is the error where some of the points dont align all points in the space
+there is training data
+then there is evaluation data
+quantifying the error
+error metrics dont waste time kid
+man the explanation is meh
